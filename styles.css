@@ -77,9 +77,8 @@ h1 {
 }
 #Songs {
     float:right;
-    background-color: black;
     margin-right: 100px;
-    margin-top: 15px;
+    margin-top: 0px;
     
     /* margin-bottom: 700px; */
 
